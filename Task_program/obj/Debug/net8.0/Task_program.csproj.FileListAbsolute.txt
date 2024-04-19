@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\bin\Debug\net8.0\Task_program.exe
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\bin\Debug\net8.0\Task_program.deps.json
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\bin\Debug\net8.0\Task_program.runtimeconfig.json
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\bin\Debug\net8.0\Task_program.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\bin\Debug\net8.0\Task_program.pdb
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.AssemblyInfo.cs
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\refint\Task_program.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.pdb
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\Task_program.genruntimeconfig.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\контрольная\Task_program\obj\Debug\net8.0\ref\Task_program.dll
